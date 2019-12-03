@@ -13,9 +13,9 @@ Hari ke-1 (28 November):
 	- Masalah	   :
 
 3. Rida Razkita :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : Instal bespoke dan node.js
+	- Yang dikerjain   : kolaborasi di git dan trello
+	- Masalah	   : tidak ada
 
 Hari ke-2 (29 November):
 
@@ -30,9 +30,9 @@ Hari ke-2 (29 November):
 	- Masalah	   :
 
 3. Rida Razkita :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : kolaborasi di git dan trello
+	- Yang dikerjain   : mengedit index.html
+	- Masalah	   : sulit melakukan push yang dikarenakan jaringan tidak mendukung
 
 Hari ke-3 (2 Desember):
 
@@ -47,8 +47,9 @@ Hari ke-3 (2 Desember):
 	- Masalah	   :
 
 3. Rida Razkita :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
+	- Kemarin Ngerjain : mengedit index.html
+	- Yang dikerjain   : testing git bash
+	- Masalah 	   : sulit melakukan push yang dikarenakan jaringan tidak mendukung
 
 Hari ke-4 (3 Desember):
 
@@ -63,7 +64,7 @@ Hari ke-4 (3 Desember):
 	- Masalah	   :
 
 3. Rida Razkita :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
+	- Kemarin Ngerjain : Testing Git bash
+	- Yang dikerjain   : Membuat folder "SCRUM", file "PembagianTugasAnggotaScrum.txt"
 	- Masalah	   :
-	- Masalah	   :
+	
