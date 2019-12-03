@@ -65,6 +65,6 @@ Hari ke-4 (3 Desember):
 
 3. Rida Razkita :
 	- Kemarin Ngerjain : Testing Git bash
-	- Yang dikerjain   : Membuat folder "SCRUM", file "PembagianTugasAnggotaScrum.txt"
-	- Masalah	   :
+	- Yang dikerjain   : Membuat folder "SCRUM", file "PembagianTugasAnggotaScrum.txt" dan mengedit index.html
+	- Masalah	   : tidak ada
 	
