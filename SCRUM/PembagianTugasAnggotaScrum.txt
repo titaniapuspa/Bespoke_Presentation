@@ -20,14 +20,14 @@ Hari ke-1 (28 November):
 Hari ke-2 (29 November):
 
 1. Kristianti :
-	- Kemarin Ngerjain : melakukan perubahan pada index.html 
-	- Yang dikerjain   : mengganti judul dan input gambar
-	- Masalah	   : tidak ada
+	- Kemarin Ngerjain :  
+	- Yang dikerjain   : 
+	- Masalah	   : 
 
 2. Dwi Ira :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : melakukan kolaborasi didalam git
+	- Yang dikerjain   : mengedit dan merubah index.html
+	- Masalah	   : tidak ada
 
 3. Rida Razkita :
 	- Kemarin Ngerjain : kolaborasi di git dan trello
@@ -37,14 +37,14 @@ Hari ke-2 (29 November):
 Hari ke-3 (2 Desember):
 
 1. Kristianti :
-	- Kemarin Ngerjain : 
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : melakukan perubahan pada index.html
+	- Yang dikerjain   : mengganti judul dan input gambar
+	- Masalah	   : tidak ada
 
 2. Dwi Ira :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : melakukan kolaborasi didalam git
+	- Yang dikerjain   : menambah pembagian tugas - tugas 
+	- Masalah	   : tidak ada
 
 3. Rida Razkita :
 	- Kemarin Ngerjain : mengedit index.html
