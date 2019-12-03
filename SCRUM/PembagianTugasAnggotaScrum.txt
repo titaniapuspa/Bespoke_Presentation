@@ -8,9 +8,9 @@ Hari ke-1 (28 November):
 	- Masalah	   :
 
 2. Dwi Ira :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : Instal bespoke dan node. js
+	- Yang dikerjain   : melakukan kolaborasi didalam git
+	- Masalah	   : awalnya kesulitan untuk pull dan push
 
 3. Rida Razkita :
 	- Kemarin Ngerjain : Instal bespoke dan node.js
