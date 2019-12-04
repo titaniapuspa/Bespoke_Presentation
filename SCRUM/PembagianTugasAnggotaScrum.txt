@@ -20,14 +20,20 @@ Hari ke-1 (28 November):
 Hari ke-2 (29 November):
 
 1. Kristianti :
+<<<<<<< HEAD
 	- Kemarin Ngerjain : kolaborasi di git dan trello
 	- Yang dikerjain   : mencoba comit pada index.html
 	- Masalah	   : tidak ada
+=======
+	- Kemarin Ngerjain :  
+	- Yang dikerjain   : 
+	- Masalah	   : 
+>>>>>>> 3ded0ea5a98edd30bb91181dd51b32a7afb989c4
 
 2. Dwi Ira :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : melakukan kolaborasi didalam git
+	- Yang dikerjain   : mengedit dan merubah index.html
+	- Masalah	   : tidak ada
 
 3. Rida Razkita :
 	- Kemarin Ngerjain : kolaborasi di git dan trello
@@ -37,14 +43,18 @@ Hari ke-2 (29 November):
 Hari ke-3 (2 Desember):
 
 1. Kristianti :
+<<<<<<< HEAD
 	- Kemarin Ngerjain : melakukan perubahan pada index.html 
+=======
+	- Kemarin Ngerjain : melakukan perubahan pada index.html
+>>>>>>> 3ded0ea5a98edd30bb91181dd51b32a7afb989c4
 	- Yang dikerjain   : mengganti judul dan input gambar
 	- Masalah	   : tidak ada
 
 2. Dwi Ira :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : melakukan kolaborasi didalam git
+	- Yang dikerjain   : menambah pembagian tugas - tugas 
+	- Masalah	   : tidak ada
 
 3. Rida Razkita :
 	- Kemarin Ngerjain : mengedit index.html
@@ -65,6 +75,6 @@ Hari ke-4 (3 Desember):
 
 3. Rida Razkita :
 	- Kemarin Ngerjain : Testing Git bash
-	- Yang dikerjain   : Membuat folder "SCRUM", file "PembagianTugasAnggotaScrum.txt"
-	- Masalah	   :
+	- Yang dikerjain   : Membuat folder "SCRUM", file "PembagianTugasAnggotaScrum.txt" dan mengedit index.html
+	- Masalah	   : tidak ada
 	
