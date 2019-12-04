@@ -1,0 +1,13 @@
+Rida Razkita sebagai SCRUM MASTER (dari tanggal 4-6 desember 2019 dan 8 desember 2019)
+
+1. Tugas Developer 1 (titania Puspa Nainggolan)
+   - Membuat materi deskripsi dan spesifikasi tentang PENYEDOT DEBU DAN PEL (VACUUM CLEANER ROBOTIC) 360 DERAJAT di persentasi bespoke
+     waktu pengerjaannya dari hari Rabu,4 Desember 2019 sampai Jumat,6 Desember 2019
+  
+2. Tugas developer 2 (kristianti)
+   - Membuat fungsi dan teknologi yang diterapkan pada PENYEDOT DEBU DAN PEL (VACUUM CLEANER ROBOTIC) 360 DERAJAT
+     waktu pengerjaannya dari hari Rabu,4 Desember 2019 sampai Jumat,6 Desember 2019
+
+3. Tugas developer 3 (Dwi Ira) 
+   - Menjabarkan kelemahan dan kelebihan produk PENYEDOT DEBU DAN PEL (VACUUM CLEANER ROBOTIC) 360 DERAJAT
+     waktu pengerjaannya dari hari Rabu,4 Desember 2019 sampai Jumat,6 Desember 2019
