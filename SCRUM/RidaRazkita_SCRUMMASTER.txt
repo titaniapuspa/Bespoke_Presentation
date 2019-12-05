@@ -28,9 +28,9 @@ Hari ke-5 (Rabu, 4 Desember 2019):
 
 3. Titania Nainggolan	:
 
-	- Kemarin Ngerjain : 
-	- Yang dikerjain   : 
-	- Masalah	   : 
+	- Kemarin Ngerjain : Edit  file index.html
+	- Yang dikerjain   : Edit halaman awal pada tampilan presentasi menjadi berada di sebelah kiri
+	- Masalah	   : tidak ada masalah, hanya masalah pada slide selanjutnya tetapi bukan bagian saya
 	
 
 Hari ke-6 (Kamis, 5 Desember 2019):
