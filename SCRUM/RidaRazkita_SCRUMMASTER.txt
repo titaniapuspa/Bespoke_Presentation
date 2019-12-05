@@ -22,9 +22,9 @@ Hari ke-5 (Rabu, 4 Desember 2019):
 
 2. Dwi Ira		:
 
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : perbaikan html
+	- Yang dikerjain   : menambahkan kelebihan dan kekurangan html
+	- Masalah	   : tampilan pada web setengah terlihat, sebagaian tidak
 
 3. Titania Nainggolan	:
 
