@@ -22,9 +22,9 @@ Hari ke-5 (Rabu, 4 Desember 2019):
 
 2. Dwi Ira		:
 
-	- Kemarin Ngerjain : Edit text index.html
-	- Yang dikerjain   : Menambahkan kelemahan dan kelebihan vacum cleaner
-	- Masalah	   : Tampilan pada web tidak terlihat semua ada bagian bacaan yang terputus
+	- Kemarin Ngerjain :
+	- Yang dikerjain   :
+	- Masalah	   :
 
 3. Titania Nainggolan	:
 
@@ -47,7 +47,7 @@ Hari ke-6 (Kamis, 5 Desember 2019):
 	- Yang dikerjain   :
 	- Masalah	   :
 
-3. Titania Nainggola	:
+3. Titania Nainggolan	:
 
 	- Kemarin Ngerjain : 
 	- Yang dikerjain   : 
