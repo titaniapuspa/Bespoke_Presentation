@@ -49,7 +49,7 @@ Hari ke-6 (Kamis, 5 Desember 2019):
 
 3. Titania Nainggolan	:
 
-	- Kemarin Ngerjain : 
-	- Yang dikerjain   : 
-	- Masalah	   : 
+	- Kemarin Ngerjain : mengedit file index.html, mengedit slide1
+	- Yang dikerjain   : menambahkan deskripsi alat, edit slide2 pada file index.html
+	- Masalah	   : terjadi konflik, tapi sudah diselesaikan dengan mengembalikan pada tampilan coding awal
 	
