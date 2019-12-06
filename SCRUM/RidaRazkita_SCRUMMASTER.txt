@@ -34,13 +34,11 @@ Hari ke-5 (Rabu, 4 Desember 2019):
 	
 
 Hari ke-6 (Kamis, 5 Desember 2019):
-
 1. Kristianti		:
 
-	- Kemarin Ngerjain : 
-	- Yang dikerjain   :
-	- Masalah	   :
-
+	- Kemarin Ngerjain : edit halaman index.html
+	- Yang dikerjain   : memasukan teori teknologi yang di gunakan dan input cover dalam file  index. html
+	- Masalah	   : tidak ada
 2. Dwi Ira
 		:
 	- Kemarin Ngerjain : Edit file hlmt
