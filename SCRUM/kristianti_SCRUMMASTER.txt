@@ -17,7 +17,7 @@ Kristianti sebagai SCRUM MASTER (dari tanggal 6-7 desember 2019 dan 8 desember 2
 list kan yang sudah di kerjakan 
 Hari ke-7 (jumat, 6 Desember 2019):
 
-1. Kristianti		:
+1. Rida Razkita		:
 
 	- Kemarin Ngerjain : 
 	- Yang dikerjain   : 
@@ -31,9 +31,9 @@ Hari ke-7 (jumat, 6 Desember 2019):
 
 3. Titania Nainggolan	:
 
-	- Kemarin Ngerjain : 
-	- Yang dikerjain   : 
-	- Masalah	   : 
+	- Kemarin Ngerjain : Penambahan deskripsi alat pada slide presentasi
+	- Yang dikerjain   : Mengubah font pada judul dan anggota kelompik di slide 1
+	- Masalah	   : Tidak ada, hanya bingung mendesain tampilannya
 	
 
 Hari ke-6 (sabtu, 7 Desember 2019):
