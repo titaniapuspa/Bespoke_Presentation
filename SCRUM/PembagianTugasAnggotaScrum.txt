@@ -59,9 +59,9 @@ Hari ke-4 (3 Desember):
 	- Masalah	   :
 
 2. Dwi Ira :
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : melakukan kolaborasi dalam git
+	- Yang dikerjain   : mengedit html
+	- Masalah	   : tidak ada
 
 3. Rida Razkita :
 	- Kemarin Ngerjain : Testing Git bash
