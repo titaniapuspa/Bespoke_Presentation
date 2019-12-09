@@ -19,9 +19,9 @@ Hari ke-8 (Senin, 9 Desember 2019):
 
 1. Rida Razkita		:
 
-	- Kemarin Ngerjain : 
-	- Yang dikerjain   : 
-	- Masalah	   : 
+	- Kemarin Ngerjain : Memperbaiki materi
+	- Yang dikerjain   : Memperbaharui tampilan presentasi dan menabah materi Vacuum Cleaner Robotic
+	- Masalah	   : terjadi konflik merge
 
 2. Kristianti		:
 
@@ -46,7 +46,7 @@ Hari ke-9 (Selasa, 10 Desember 2019):
 
 2. Rida Razkita
 		:
-	- Kemarin Ngerjain :
+	- Kemarin Ngerjain : Memperbaharui tampilan presentasi dan menabah materi Vacuum Cleaner Robotic
 	- Yang dikerjain   :
 	- Masalah	   :
 
