@@ -52,7 +52,7 @@ Hari ke-9 (Selasa, 10 Desember 2019):
 
 3. Titania Nainggolan	:
 
-	- Kemarin Ngerjain : 
-	- Yang dikerjain   : 
-	- Masalah	   : 
+	- Kemarin Ngerjain : Tidak ada yang dikerjakan
+	- Yang dikerjain   : Menyusun kembali serta merapikan tampilan dari file index.html
+	- Masalah	   : Tidak ada
 	
