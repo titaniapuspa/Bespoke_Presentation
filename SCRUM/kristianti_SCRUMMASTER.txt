@@ -46,9 +46,9 @@ Hari ke-6 (Senin, 8 Desember 2019):
 
 2. Dwi Ira
 		:
-	- Kemarin Ngerjain :
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : mengedit html
+	- Yang dikerjain   : menambah vidio dalam slide
+	- Masalah	   : tidak ada, hanya awal ketika memasukkan vidio tidak dapat diputar setelah itu bisa kembali
 
 3. Titania Nainggolan	:
 
