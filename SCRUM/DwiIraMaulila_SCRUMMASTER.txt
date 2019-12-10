@@ -25,9 +25,9 @@ Hari ke-8 (Senin, 9 Desember 2019):
 
 2. Kristianti		:
 
-	- Kemarin Ngerjain : 
-	- Yang dikerjain   : 
-	- Masalah	   : 
+	- Kemarin Ngerjain : mencoba membuat animasi 
+	- Yang dikerjain   : merapikan dan menambah animasi pada index.html
+	- Masalah	   : terjadi konflif 
 
 3. Titania Nainggolan	:
 
