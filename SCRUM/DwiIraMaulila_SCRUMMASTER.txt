@@ -46,9 +46,9 @@ Hari ke-9 (Selasa, 10 Desember 2019):
 
 2. Rida Razkita
 		:
-	- Kemarin Ngerjain : Memperbaharui tampilan presentasi dan menabah materi Vacuum Cleaner Robotic
-	- Yang dikerjain   :
-	- Masalah	   :
+	- Kemarin Ngerjain : Memperbaharui tampilan presentasi dan menambah materi Vacuum Cleaner Robotic
+	- Yang dikerjain   : memperbaiki index.html
+	- Masalah	   : tidak ada
 
 3. Titania Nainggolan	:
 
